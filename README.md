@@ -4,7 +4,7 @@
 
 Network Simulator is a Java-based application that simulates a basic network topology. It allows users to add main devices (Hub, Switch, Router) and end devices, create connections between them, and send messages within the network. This simulator is designed to provide a simple stimualtion.
 
-[Screencast from 2024-06-19 18-33-04.webm](https://github.com/imvinayak32/Network_Simulator/assets/131988601/d30d6761-d04f-4d06-9899-f9e1cc20c02e)
+[Project execution video](https://github.com/imvinayak32/Network_Simulator/assets/131988601/d30d6761-d04f-4d06-9899-f9e1cc20c02e)
 
 ## Features
 
