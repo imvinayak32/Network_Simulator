@@ -14,6 +14,9 @@ Network Simulator is a Java-based application that simulates a basic network top
 - Send messages between devices with acknowledgment.
 - Clear all devices and reset the topology.
 
+## Flow chart
+- Access flowchart directory for flowchart of each file of this project, this gives better and logical understanding of each file of project.
+
 ## Requirements
 
 - Java Development Kit (JDK) 8 or above.
